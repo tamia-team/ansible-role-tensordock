@@ -1,10 +1,12 @@
-# 🐿️ Tamia Ops
+# 🐿️ Changelog of: Tamia Ops Ansible Role for TensorDocker 
 
-> Various tools available to [Tamia Team](https://tamia.team)
+## History
 
-## Synopsis <a name="synopsis" />
+## History
 
-Various tools available to [Tamia Team](https://tamia.team)
+### v24.29.1 (20240721T1415)
+
+- Initial setup.
 
 ## License <a name="license" />
 
@@ -22,4 +24,6 @@ secret or copyright law.
 > Dissemination of this information or reproduction of this material is strictly forbidden unless prior written
 permission is obtained from Tamia SAS.
 > 
+
+
 
