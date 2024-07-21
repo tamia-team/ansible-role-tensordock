@@ -1,10 +1,10 @@
-# 🐿️ Tamia Ops
+# 🐿️ Tamia Ops - Ansible Role for TensorDock
 
-> Various tools available to [Tamia Team](https://tamia.team)
+> Ansible role to manage TensorDock CPU and GPU servers over API.
 
 ## Synopsis <a name="synopsis" />
 
-Various tools available to [Tamia Team](https://tamia.team)
+Ansible role to manage TensorDock CPU and GPU servers over API.
 
 ## License <a name="license" />
 
